@@ -69,7 +69,7 @@ Go to chrome://flags/#allow-insecure-localhost and enable the toggle, then resta
 yarn install
 ```
 
-You can also optionally rename `.env.example` to `.env` and set your own variables.
+You can also optionally rename `.env.sample` to `.env` and set your own variables.
 
 ### Build all packages for production
 
